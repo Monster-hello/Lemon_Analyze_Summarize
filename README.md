@@ -23,9 +23,11 @@ It was recommend using the Anaconda distribution to manage these requirements.
 
 # DATA 
 DATA folder was used to store the temporary results of each steps. (Try to unzip before use it)
+(It was too big to upload on Git-hub so you can download it on my onedrive link)
 
 # Leipzig 
 This folder contains the raw processed eeg data and other behavior scales, it is a zip file which means that you need to unzip it before using.
+(It was too big to upload on Git-hub so you can download it on my onedrive link)
 
 # Toolbox
 This folder contains the essential toolbox : fooof_matlab-main (it contains the example files, too).
