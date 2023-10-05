@@ -22,12 +22,11 @@ pytest is needed to run the test suite locally
 It was recommend using the Anaconda distribution to manage these requirements.
 
 # DATA 
-DATA folder was used to store the temporary results of each steps. (Try to unzip before use it)
-(It was too big to upload on Git-hub so you can download it on my onedrive link)
+DATA folder was used to store the temporary results of each steps. 
 
 # Leipzig 
 This folder contains the raw processed eeg data and other behavior scales, it is a zip file which means that you need to unzip it before using.
-(It was too big to upload on Git-hub so you can download it on my onedrive link)
+(It was too big to upload on Git-hub so you can download it on my onedrive link https://mcgill-my.sharepoint.com/:u:/r/personal/chen_liu6_mail_mcgill_ca/Documents/Leipzig.rar?csf=1&web=1&e=nVcZbK)
 
 # Toolbox
 This folder contains the essential toolbox : fooof_matlab-main (it contains the example files, too).
