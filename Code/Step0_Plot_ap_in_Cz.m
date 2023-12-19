@@ -53,10 +53,10 @@ if isdir(SavePath)==0
     mkdir(SavePath);
 end
 % saveas(gcf, [SavePath,'Cz_group_AP.jpg']);
-% 设置分辨率为900 DPI
+% 脡猫脰脙路脰卤忙脗脢脦陋900 DPI
 resolution = 900;
 format='jpeg'
 print(gcf, ['-d' format], 'Cz_group_AP.jpg', ['-r' num2str(resolution)]);
 
-% 保存图形
+% 卤拢麓忙脥录脨脦
 saveas(gcf, [SavePath,'Cz_group_AP.jpg']);
