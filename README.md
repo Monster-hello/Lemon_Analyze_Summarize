@@ -5,10 +5,18 @@ The main branch was divided into 4 files: Code, DATA, Leipzig, Toolbox, and it s
 # Code
 In the first step, for Step00, I reconstructed the whole raw data into a new matrix structure to let each participant have a structure to contain his/her EEG and other behavior scales.
 
-For Step01, it is the process of using the fooof-tools(https://github.com/fooof-tools/fooof_mat) to calculate the aperiodic component. fooof_group means it can be calculated by a group (many channels at the same time). And Step02 has calculated and summarized the result for each individual. Step03 has been used for conducting significant difference analysis between different age groups. And Step04 is independent of Step01 to 03, it is the step to plot the FOOOF analysis group aperiodic component reconstruction in channel Cz.
+For Step01, it is the process of using the fooof-tools(https://github.com/fooof-tools/fooof_mat) to calculate the aperiodic component. fooof_group means it can be calculated by a group (many channels at the same time). 
+
+And Step02 has calculated and summarized the result for each individual. 
+
+Step03 has been used for conducting significant difference analysis between different age groups.
+
+And Step04 is independent of Step01 to 03, it is the step to plot the FOOOF analysis group aperiodic component reconstruction in channel Cz.
 
 Warning: before running the step01, you should reference the link: https://github.com/fooof-tools/fooof, configure the relevant anaconda environment:
+
 For example: 
+
 It has the following required dependencies:
 
 - numpy
