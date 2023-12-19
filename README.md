@@ -44,7 +44,7 @@ This folder contains the raw processed eeg data and other behavior scales, it is
 This folder contains all visual images of results
 
 # Toolbox
-This folder contains the essential toolbox : fooof_matlab-main (it contains the example files, too).
+This folder contains the essential toolbox : fooof_matlab-main (it contains the example files, too) and foof-main(original Python toolbox)
 
 # Missing appendix
 This Excel file recods the missing scales of each participants (notes by their number).
