@@ -11,15 +11,15 @@ Warning: before running the step01, you should reference the link: https://githu
 For example: 
 It has the following required dependencies:
 
-numpy
--scipy >= 0.19
--There are also optional dependencies, which are not required for model fitting itself, but offer extra functionality:
+- numpy
+- scipy >= 0.19
+- There are also optional dependencies, which are not required for model fitting itself, but offer extra functionality:
 
--matplotlib is needed to visualize data and model fits
--tqdm is needed to print progress bars when fitting many models
--pandas is needed for exporting model fit results to dataframes
--pytest is needed to run the test suite locally
--It was recommend using the Anaconda distribution to manage these requirements.
+- matplotlib is needed to visualize data and model fits
+- tqdm is needed to print progress bars when fitting many models
+- pandas is needed for exporting model fit results to dataframes
+- pytest is needed to run the test suite locally
+- It was recommend using the Anaconda distribution to manage these requirements.
 
 # DATA 
 DATA folder was used to store the temporary results of each steps.("The file is too large to upload, consider using Google Drive for backup.） 
