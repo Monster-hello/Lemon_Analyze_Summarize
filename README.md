@@ -13,6 +13,8 @@ Step03 has been used for conducting significant difference analysis between diff
 
 And Step04 is independent of Step01 to 03, it is the step to plot the FOOOF analysis group aperiodic component reconstruction in channel Cz.
 
+# Dependencies
+
 Warning: before running the step01, you should reference the link: https://github.com/fooof-tools/fooof, configure the relevant anaconda environment:
 
 For example: 
