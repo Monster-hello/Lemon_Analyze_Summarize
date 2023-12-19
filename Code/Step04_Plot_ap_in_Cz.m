@@ -48,7 +48,7 @@ hold on
 plot(cc, dd, 'Color', [101/255, 210/255, 96/255],'LineWidth',4);
 hold on
 xlim([2, 40]);
-SavePath=[':\Leipzig\Analyze\DATA\Step03\']
+SavePath=[':\Leipzig\Analyze\DATA\Step04\']
 if isdir(SavePath)==0
     mkdir(SavePath);
 end
